@@ -2,6 +2,10 @@
 
 Based on https://github.com/gaearon/react-side-effect
 
+## Install
+
+`$ npm install --save react-server-status`
+
 ## Example
 
 ### React View
@@ -32,6 +36,3 @@ const page = renderToString(<App />);
 this.status = ServerStatus.rewind() || 200;
 /// …
 ```
-
-## TODO
-* [ ] Publish on NPM

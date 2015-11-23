@@ -13,20 +13,20 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.schibsted.io:vg/react-server-status.git"
+    "url": "https://github.com/vgno/react-server-status"
   },
-  "author": "Gustaf Dalemar",
-  "license": "UNLICENSED",
+  "author": "VG",
+  "license": "MIT",
   "dependencies": {
     "react-side-effect": "~1.0.2"
   },
   "devDependencies": {
     "babel": "~5.8.21",
     "babel-eslint": "~4.1.1",
-    "eslint": "~1.6.0",
-    "eslint-config-vgno": "~3.0.0",
-    "eslint-plugin-react": "~3.5.1",
-    "npm-check-updates": "~2.3.0",
+    "eslint": "~1.10.1",
+    "eslint-config-vgno": "~5.0.0",
+    "eslint-plugin-react": "~3.10.0",
+    "npm-check-updates": "~2.5.1",
     "rimraf": "~2.4.3"
   },
   "peerDependencies": {
