@@ -1,6 +1,3 @@
-# EditorConfig helps developers define and maintain consistent coding styles between different editors and IDEs.
-# Requires EditorConfig JetBrains Plugin - http://github.com/editorconfig/editorconfig-jetbrains
-
 # Set this file as the topmost .editorconfig
 # (multiple files can be used, and are applied starting from current document location)
 root = true
