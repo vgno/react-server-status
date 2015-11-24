@@ -30,6 +30,6 @@
     "rimraf": "~2.4.3"
   },
   "peerDependencies": {
-    "react": "^0.13.0"
+    "react": ">=0.13.0"
   }
 }
