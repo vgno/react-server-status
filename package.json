@@ -1,6 +1,6 @@
 {
   "name": "react-server-status",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A declarative way to set server status",
   "main": "lib/index.js",
   "scripts": {
