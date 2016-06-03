@@ -10,7 +10,7 @@ Based on https://github.com/gaearon/react-side-effect
 
 ### React View
 ```javascript
-import { Component } from 'react';
+import React, { Component } from 'react';
 
 import ServerStatus from 'react-server-status';
 
