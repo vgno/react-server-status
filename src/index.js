@@ -1,4 +1,5 @@
 import React from 'react';
+import PropTypes from 'prop-types';
 import withSideEffect from 'react-side-effect';
 
 function reducePropsToState(propsList) {
@@ -12,7 +13,7 @@ function reducePropsToState(propsList) {
 export default class ServerStatus extends React.Component {
 
     static propTypes = {
-        status: React.PropTypes.number.isRequired
+        status: PropTypes.number.isRequired
     }
 
     render() {

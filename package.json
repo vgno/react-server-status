@@ -18,7 +18,7 @@
   "author": "VG",
   "license": "MIT",
   "dependencies": {
-    "react-side-effect": "~1.0.2"
+    "prop-types": "^15.5.8",
   },
   "devDependencies": {
     "babel": "~5.8.21",
@@ -30,6 +30,6 @@
     "rimraf": "~2.4.3"
   },
   "peerDependencies": {
-    "react": ">=0.13.0"
+    "react": "^0.14.9 || ^15.3.0"
   }
 }
