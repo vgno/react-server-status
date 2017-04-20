@@ -3,6 +3,7 @@
   "version": "1.0.2",
   "description": "A declarative way to set server status",
   "main": "lib/index.js",
+  "browser": "lib/browser.js",
   "scripts": {
     "build": "babel src --out-dir lib",
     "clean": "rimraf lib",
