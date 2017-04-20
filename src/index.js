@@ -11,6 +11,7 @@ function reducePropsToState(propsList) {
 
 @withSideEffect(reducePropsToState, Function.prototype)
 export default class ServerStatus extends React.Component {
+    static displayName = 'ServerStatus';
 
     static propTypes = {
         status: PropTypes.number.isRequired
